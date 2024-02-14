@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UsandoGPS-PM25S-2023-2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
